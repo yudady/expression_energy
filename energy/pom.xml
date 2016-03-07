@@ -26,7 +26,6 @@
 			<artifactId>aviator</artifactId>
 			<version>2.3.3</version>
 		</dependency>
-
 		<dependency>
 			<groupId>commons-lang</groupId>
 			<artifactId>commons-lang</artifactId>
@@ -46,10 +45,13 @@
 			<version>0.9.4</version>
 		</dependency>
 
+
+
 		<dependency>
-			<groupId>com.googlecode.aviator</groupId>
-			<artifactId>aviator</artifactId>
-			<version>2.3.3</version>
+			<groupId>de.congrace</groupId>
+			<artifactId>exp4j</artifactId>
+			<version>0.3.11</version>
 		</dependency>
+
 	</dependencies>
 </project>
